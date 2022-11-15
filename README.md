@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Henry Loi
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning many things.
-- 💞️ I’m looking to collaborate on ROS and RTOS.
+- 💞️ I’m looking to collaborate on engineering projects.
 - 📫 How to reach me hchloi@connect.ust.hk
 
 <!---
