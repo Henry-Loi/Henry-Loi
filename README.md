@@ -16,12 +16,14 @@
 
 ![C](https://img.shields.io/badge/C-%A8B9CC.svg?style=for-the-badge&logo=C&logoColor=red)
 ![Cpp](https://img.shields.io/badge/cplusplus-%2361DAFB.svg?style=for-the-badge&logo=cplusplus&logoColor=blue)
+![python](https://img.shields.io/badge/python-%23CCFFFB.svg?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 <!-- ![html5](https://img.shields.io/badge/html5-%1572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![css5](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
