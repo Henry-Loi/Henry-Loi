@@ -9,7 +9,7 @@
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henry-loi&no-frame=true&rank=-UNKNOWN,-C&row=1&theme=gruvbox&margin-w=15&rank=-unknown" alt="henry-loi" /></a> </p>
 
 
-- 🌱 I’m currently learning **ML & LLM**
+- 🌱 I’m currently learning **LLM & Finance**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Henry-Loi?tab=repositories](https://github.com/Henry-Loi?tab=repositories)
 
@@ -30,8 +30,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henry-loi&layout=compact&langs_count=10&card_width=320&size_weight=0.4&count_weight=0.6" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henry-loi&" alt="henry-loi" />
-</a>
-
 
